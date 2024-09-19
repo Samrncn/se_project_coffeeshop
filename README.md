@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I would like to add an online ordering feature to allow orders to be placed ahead of schedule for fast pickup of coffee. I would also add a store locator to make it convenient to find a coffee shop nearby if there are multiple locations.
